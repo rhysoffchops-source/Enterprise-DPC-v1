@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Enterprise DPC</string>
+    <string name="device_admin_description">Enforces enterprise-grade security policies, manages Work Profile environments, and monitors compliance.</string>
+</resources>

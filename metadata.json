@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise DPC",
+  "description": "Android Enterprise Device Policy Controller (DPC) offering clean layout separation, work profile setup, and security compliance policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
